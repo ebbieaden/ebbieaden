@@ -1,16 +1,28 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRkMmI3YzMzOTA3NTUyNjE1OTM5MjI1ZTA1MzY5N2YxYjNmMTQ1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif
+" width="100"/>
+</div>
+
+<br />
+
+
+
 ### Hi there 👋
 
-<!--
-**ebbieaden/ebbieaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Fiyinfoluwa is an Experienced Developer professional with strong leadership and relationship-building skills. Certified Blockchain Developer with extensive experience in developing decentralized applications, smart contracts, and blockchain-based solutions. My expertise lies in blockchain frameworks such as Ethereum and EVM compatible Networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to new ideas. Looking forward to working with you...
+Don't hesitate to send me a message to discuss your project and how we can work together. Looking forward to getting you online!
+
+ 
+
+- 💬 Ask me about Blockchain and Web3
+- 📫 How to reach me: [email](mailto:ebbieaden@gmail.com) :)
+- ⚡ Fun fact: I love Playing Chess and Studying.
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackalbino01&theme=dark)](https://git.io/streak-stats)
+
+
+
