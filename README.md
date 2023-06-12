@@ -38,8 +38,8 @@ Don't hesitate to send me a message to discuss your project and how we can work 
 - 📫 How to reach me: [email](mailto:ebbieaden@gmail.com) :)
 - ⚡ Fun fact: I love Playing Chess and Studying.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ebbieaden)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackalbino01&theme=dark)](https://git.io/streak-stats)
 
 ---
 
